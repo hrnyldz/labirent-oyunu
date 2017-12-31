@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511817763 source:c:\users\harun\documents\code blocks\ramo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1511883885 source:h:\ders\prolab1\3\ramo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
